@@ -20,3 +20,4 @@ git commit
 git log  
 git push   
 git clone  
+git log --oneline
